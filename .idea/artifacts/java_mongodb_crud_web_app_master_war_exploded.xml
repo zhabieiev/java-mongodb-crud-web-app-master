@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java-mongodb-crud-web-app-master:war exploded">
+    <output-path>C:/Tomcat 9.0/webapps</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-mongodb-crud-web-app-master" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="java-mongodb-crud-web-app-master/web/Web" />
+    </root>
+  </artifact>
+</component>
